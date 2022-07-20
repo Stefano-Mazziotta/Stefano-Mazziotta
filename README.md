@@ -16,7 +16,6 @@ Working at [www.movizen.com](https://movizen.com/)
   <a href="https://github.com/Stefano-Mazziotta"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
   <a href="https://github.com/Stefano-Mazziotta"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
   <a href="https://github.com/Stefano-Mazziotta"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-  <a href="https://github.com/Stefano-Mazziotta"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   <a href="https://github.com/Stefano-Mazziotta"><img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/></a>
 </p>
 
@@ -33,6 +32,7 @@ Working at [www.movizen.com](https://movizen.com/)
 
 ### Tools
 <p>
+  <a href="https://github.com/Stefano-Mazziotta"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   <a href="https://github.com/Stefano-Mazziotta"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
   <a href="https://github.com/Stefano-Mazziotta"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
   <a href="https://github.com/Stefano-Mazziotta"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>

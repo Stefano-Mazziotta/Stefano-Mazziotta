@@ -4,8 +4,8 @@
 </h1>
 
 ## 👨‍💻 About me
-I'm Stefano Mazziotta, a fullstack web developer from Rosario, Argentina.
-I enjoy solving problems in the most optimal way.
+I'm Stefano Mazziotta, a fullstack web developer from Rosario, Argentina. <br>
+I enjoy solving problems in the most optimal way. <br>
 Working at [www.movizen.com](https://movizen.com/)
 
 ## 🛠️ Technologies 

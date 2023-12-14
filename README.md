@@ -5,11 +5,11 @@
 
 ## About Me
 
-<p>I'm a passionate full-stack web developer with a great interest in Laravel projects and how internet works.</p>
-<p>In my professional experience, I used different technologies such as Angular, .NET, Wordpress, MySQL, MariaDB, Nginx, Linux.</p>
-<p>Currently, I study university analyst system to improve myself in low level and high performance programming.</p>
-<p>Out of curiosity I have tried Next.js, Docker, Node.js, PostgreSQL, GraphQL.</p>
-<p>Beyond coding, I find joy in exploring the world of analog photography, and I'm currently working on creating my photography website.</p>
+<p>🌐 I'm a passionate full-stack web developer with a great interest in Laravel projects and how internet works.</p>
+<p>💼 In my professional experience, I used different technologies such as Angular, .NET, Wordpress, MySQL, MariaDB, Nginx, Linux.</p>
+<p>📖 Currently, I study university analyst system to improve myself in low level and high performance programming.</p>
+<p>🕵️ Out of curiosity I have tried Next.js, Docker, Node.js, PostgreSQL, GraphQL.</p>
+<p>📷 Beyond coding, I find joy in exploring the world of analog photography, and I'm currently working on creating my photography website.</p>
 
 ## Contact
 

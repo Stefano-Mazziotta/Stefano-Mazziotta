@@ -16,7 +16,7 @@
 Feel free to reach out to me!
 
 - [Email](mailto:mazziottastefano@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/stefano-mazziotta)
+- [Linkedin](https://www.linkedin.com/in/stefanomazziotta)
 - [Instagram](https://www.instagram.com/stefanomzt/)
 
 Let's build something amazing together! 🚀

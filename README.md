@@ -5,15 +5,15 @@
 
 ## About Me
 
-I am a passionate full-stack web developer with a great interest in Laravel projects although, in my professional experience, I used different technologies such as Angular, .NET, Codeigniter, Wordpress, etc.
-Beyond coding, I find joy in exploring the world of analog photography, and I'm currently working on creating my photography website.
+<p>I am a passionate full-stack web developer with a great interest in Laravel projects although, in my professional experience, I used different technologies such as Angular, .NET, Codeigniter, Wordpress, etc.</p>
+<p>Beyond coding, I find joy in exploring the world of analog photography, and I'm currently working on creating my photography website.</p>
 
 ## Contact
 
 Feel free to reach out to me!
 
-- **Email:** [mazziottastefano@gmail.com](mailto:mazziottastefano@gmail.com)
-- **LinkedIn:** [My linkedin](https://www.linkedin.com/in/stefano-mazziotta)
-- **Instagram:** [@stefanomzt](https://www.instagram.com/stefanomzt/)
+- [My email](mailto:mazziottastefano@gmail.com)
+- [My linkedin](https://www.linkedin.com/in/stefano-mazziotta)
+- [@stefanomzt](https://www.instagram.com/stefanomzt/)
 
 Let's build something amazing together! 🚀

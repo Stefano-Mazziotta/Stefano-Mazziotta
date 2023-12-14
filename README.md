@@ -1,12 +1,14 @@
 <h1 align="center">
   Welcome to Stefano Mazziotta's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" width="28">
 </h1>
 
 ## 👨‍💻 About me
+
 I'm Stefano Mazziotta, a fullstack web developer from Rosario, Argentina.
 
-## 🛠️ Technologies 
+## 🛠️ Technologies
+
 <p>
     <a href="https://github.com/Stefano-Mazziotta"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/Stefano-Mazziotta"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -30,6 +32,7 @@ I'm Stefano Mazziotta, a fullstack web developer from Rosario, Argentina.
 </p>
 
 ## 🤓 Learning
+
 <p>
     <a href="https://github.com/Stefano-Mazziotta"><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /></a>
     <a href="https://github.com/Stefano-Mazziotta"><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /></a>
@@ -37,7 +40,7 @@ I'm Stefano Mazziotta, a fullstack web developer from Rosario, Argentina.
 </p>
 
 ## 📪 Contact
+
 - [mazziottastefano@gmail.com]
 - [www.steffanalog.com](https://www.steffanalog.com/) my photography website!!! 📸
 - [@steff.analog](https://www.instagram.com/steff.analog/) on Instagram 🎞
-

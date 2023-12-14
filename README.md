@@ -9,7 +9,7 @@
 <p>💼 In my professional experience, I used different technologies such as Angular, .NET, Wordpress, MySQL, MariaDB, Nginx, Linux.</p>
 <p>📖 Currently, I study university analyst system to improve myself in low level and high performance programming.</p>
 <p>🕵️ Out of curiosity I have tried Next.js, Docker, Node.js, PostgreSQL, GraphQL.</p>
-<p>📷 Beyond coding, I find joy in exploring the world of analog photography, and I'm currently working on creating my photography website.</p>
+<p>📷 Beyond coding, I find joy in exploring the world of analog photography.</p>
 
 ## Contact
 

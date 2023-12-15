@@ -1,6 +1,6 @@
 <p align="center" width="300">
   <img align="center" width="200" src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" />
-  <h3 align="center">¡Hi! I'm Stefano Mazziotta 👨🏻‍💻📸</h3>
+  <h3 align="center">Hi! I'm Stefano Mazziotta 👨🏻‍💻📸</h3>
 </p>
 
 ## About Me
